@@ -1,0 +1,9 @@
+name: CelestiamSanction
+version: '1.0-SNAPSHOT'
+main: fr.blixow.celestiamsanction.CelestiamSanction
+api-version: 1.8
+authors: [ blixow14, SYNATIKS ]
+description: plugin de sanction de celestiam
+commands:
+  mute:
+    description: commande de mute
